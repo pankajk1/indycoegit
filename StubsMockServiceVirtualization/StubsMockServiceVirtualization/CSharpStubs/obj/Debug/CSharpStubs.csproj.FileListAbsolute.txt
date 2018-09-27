@@ -1,0 +1,21 @@
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\CSharpStubs\bin\Debug\CSharpStubs.exe.config
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\CSharpStubs\bin\Debug\CSharpStubs.exe
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\CSharpStubs\bin\Debug\CSharpStubs.pdb
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\CSharpStubs\obj\Debug\CSharpStubs.csprojResolveAssemblyReference.cache
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\CSharpStubs\obj\Debug\CSharpStubs.exe
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\CSharpStubs\obj\Debug\CSharpStubs.pdb
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\CSharpStubs\bin\Debug\CSharpStubs.exe.config
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\CSharpStubs\bin\Debug\CSharpStubs.exe
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\CSharpStubs\bin\Debug\CSharpStubs.pdb
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\CSharpStubs\obj\Debug\CSharpStubs.csprojResolveAssemblyReference.cache
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\CSharpStubs\obj\Debug\CSharpStubs.csproj.CoreCompileInputs.cache
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\CSharpStubs\obj\Debug\CSharpStubs.exe
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\CSharpStubs\obj\Debug\CSharpStubs.pdb
+D:\Code Samples\StubsAndMockAndServiceVitualization\CSharpStubs\obj\Debug\CSharpStubs.csproj.CoreCompileInputs.cache
+D:\Code Samples\StubsAndMockAndServiceVitualization\CSharpStubs\bin\Debug\CSharpStubs.exe.config
+D:\Code Samples\StubsAndMockAndServiceVitualization\CSharpStubs\bin\Debug\CSharpStubs.exe
+D:\Code Samples\StubsAndMockAndServiceVitualization\CSharpStubs\bin\Debug\CSharpStubs.pdb
+D:\Code Samples\StubsAndMockAndServiceVitualization\CSharpStubs\bin\Debug\Newtonsoft.Json.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\CSharpStubs\bin\Debug\Newtonsoft.Json.xml
+D:\Code Samples\StubsAndMockAndServiceVitualization\CSharpStubs\obj\Debug\CSharpStubs.exe
+D:\Code Samples\StubsAndMockAndServiceVitualization\CSharpStubs\obj\Debug\CSharpStubs.pdb

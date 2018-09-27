@@ -1,0 +1,102 @@
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\UnitTests.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Castle.Core.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\CSharpStubs.exe
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Fakes.Contrib.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\CSharpStubs.pdb
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\CSharpStubs.exe.config
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Castle.Core.xml
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Fakes.Contrib.pdb
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\obj\Debug\UnitTests.dll
+c:\users\rameshg\documents\visual studio 2017\Projects\CSharpStubs\UnitTests\obj\Debug\UnitTests.pdb
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\UnitTests.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\UnitTests.pdb
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Castle.Core.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\CSharpStubs.exe
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Fakes.Contrib.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\CSharpStubs.pdb
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\CSharpStubs.exe.config
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Castle.Core.xml
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Fakes.Contrib.pdb
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\obj\Debug\UnitTests.dll
+D:\Code Samples\StubsMockAndServiceVirtualization\CSharpStubs\UnitTests\obj\Debug\UnitTests.pdb
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\UnitTests.dll.config
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\UnitTests.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\UnitTests.pdb
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Castle.Core.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\CSharpStubs.exe
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Fakes.Contrib.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Moq.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\System.ValueTuple.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\CSharpStubs.pdb
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\CSharpStubs.exe.config
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Castle.Core.xml
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Fakes.Contrib.pdb
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Moq.pdb
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\Moq.xml
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code Samples\CSharpStubs\UnitTests\bin\Debug\System.ValueTuple.xml
+D:\Code Samples\CSharpStubs\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Code Samples\CSharpStubs\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\Code Samples\CSharpStubs\UnitTests\obj\Debug\UnitTests.dll
+D:\Code Samples\CSharpStubs\UnitTests\obj\Debug\UnitTests.pdb
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\UnitTests.dll.config
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\UnitTests.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\UnitTests.pdb
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Castle.Core.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\CSharpStubs.exe
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Fakes.Contrib.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Mock4Net.Core.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Moq.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\System.ValueTuple.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Newtonsoft.Json.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\CSharpStubs.pdb
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\CSharpStubs.exe.config
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Castle.Core.xml
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Fakes.Contrib.pdb
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Moq.pdb
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Moq.xml
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\System.ValueTuple.xml
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\bin\Debug\Newtonsoft.Json.xml
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\obj\Debug\UnitTests.dll
+D:\Code Samples\StubsAndMockAndServiceVitualization\UnitTests\obj\Debug\UnitTests.pdb
